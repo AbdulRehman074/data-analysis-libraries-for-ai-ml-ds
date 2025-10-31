@@ -94,7 +94,7 @@ Next Phases:
 
 **Abdulrehman**  
 AI/ML Learner & Developer | Building real-world AI projects step-by-step  
-📍 [LinkedIn](your-link) | [GitHub](your-link) | [Kaggle](your-link)
+📍 [LinkedIn](https://www.linkedin.com/in/abdul-rehman-746822331/) | [Kaggle]([your-link](https://www.kaggle.com/abdulrehmanimran))
 
 ---
 
