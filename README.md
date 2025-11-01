@@ -13,7 +13,7 @@ Whether you're preparing for AI, ML, or GenAI projects — these libraries form 
 
 ---
 
-## 🧠 Libraries Covered
+## 🧠 Libraries Covered 
 
 | Library | Focus Area | What You’ll Learn |
 |----------|-------------|------------------|
